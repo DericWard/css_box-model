@@ -1,18 +1,14 @@
-
 h1 {
     text-align: center;
     font-family: 'Courier New', Courier, monospace;
 }
 
-/* div {
-    display: inline;
-} */
+div {
+    margin: 1px;
+}
 
 .box {
     display: inline;
-    width: fit-content;
-    padding: 0px;
-    margin: 1px;
-    /* border: 10px solid blueviolet; */
 }
+
 
